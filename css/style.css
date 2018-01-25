@@ -35,6 +35,8 @@ body section section {
   width: 80%;
   padding: 15px;
   display: block;
+  text-align: center;
+  background: lightgreen;
 }
 body footer {
   background: darkgrey;
