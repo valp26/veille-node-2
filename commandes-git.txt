@@ -1,2 +1,4 @@
 git remote add origin https://github.com/valp26/veille-node.git
 git push -u origin master
+
+git add . //indexer l'ensemble des fichiers modifiés
