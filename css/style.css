@@ -1,7 +1,6 @@
 body {
   font-family: Verdana;
   text-decoration: none;
-  list-style: none;
   padding: 0;
   margin: 0;
 }
@@ -17,10 +16,10 @@ body header h2 {
   font-style: italic;
   font-size: 20px;
 }
-body nav {
+body nav ul {
   display: flex;
-  flex-direction: column;
   justify-content: space-around;
+  list-style-type: none;
 }
 body section {
   display: flex;
