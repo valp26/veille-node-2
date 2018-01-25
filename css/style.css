@@ -27,7 +27,9 @@ body section {
 }
 body section aside {
   width: 10%;
-  background: grey;
+  background-image: url("../img/arbres.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
 }
 body section section {
   width: 80%;
