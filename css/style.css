@@ -7,6 +7,7 @@ body {
 body header {
   text-align: center;
   padding: 10px;
+  background: #e6ffff;
 }
 body header h1 {
   font-weight: 800;
@@ -20,6 +21,10 @@ body nav ul {
   display: flex;
   justify-content: space-around;
   list-style-type: none;
+  margin-bottom: 20px;
+  background: darkgrey;
+  color: white;
+  padding: 5px;
 }
 body section {
   display: flex;
