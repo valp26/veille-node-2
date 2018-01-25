@@ -44,6 +44,9 @@ body section section {
   text-align: center;
   background: lightgreen;
 }
+body section section img {
+  border-radius: 25%;
+}
 body footer {
   background: darkgrey;
   color: white;
