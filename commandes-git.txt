@@ -1,4 +1,24 @@
-git remote add origin https://github.com/valp26/veille-node.git
-git push -u origin master
+$ git remote add origin https://github.com/valp26/veille-node.git
+$ git push -u origin master
+
+$ git init
+$ git clone https://github.com/valp26/veille-node-2.git
+
 
 git add . //indexer l'ensemble des fichiers modifiés
+
+$ git push --set-upstream origin branch-2
+
+$ git commit -m "Changement de la police du site"
+
+$ git status
+
+$ git --config user.name
+
+$ cd ./veille-node-2/
+
+$ ls
+
+$ git --config user.name
+
+$ git checkout branch-2
