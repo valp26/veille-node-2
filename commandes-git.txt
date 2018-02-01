@@ -22,3 +22,5 @@ $ ls
 $ git --config user.name
 
 $ git checkout branch-2
+
+$ git commit --amend -m "Ajout d'une ombre portée au titre de la page"
